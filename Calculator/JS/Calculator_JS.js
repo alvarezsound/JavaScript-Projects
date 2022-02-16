@@ -100,8 +100,8 @@ keys.addEventListener('click', (event) => {
         Update_Display();
             return;
     }
-    //ensures that AC clears the numbers from the Calculatorr
-    if (target.classList.contains('all clear')) {
+    //ensures that AC clears the numbers from the Calculator
+    if (target.classList.contains('all-clear')) {
         Calculator_Reset();
         Update_Display();
         return;
