@@ -1,12 +1,12 @@
 # JavaScript Projects
-This is the repository for all of my JavaScript course projects!
+This is the repository for all of my JavaScript course projects! Click the links below to view the files.
 ## Projects:
-- [Pizza Menu](#Pizza-Menu)
-- [Tic-Tac-Toe Game](#Tic-Tac-Toe-Game)
-- [Calculator](#Calculator)
-- [To Do App](#To-Do-App)
-- [React Projects](#React-Projects)
-- [Basic JavaScript Projects](#Basic-JavaScript-Projects)
+- <a href="https://github.com/alvarezsound/JavaScript-Projects/tree/main/Pizza_Project" target="_blank">Pizza Menu</a>
+- <a href="https://github.com/alvarezsound/JavaScript-Projects/tree/main/TicTacToe" target="_blank">Pic-Tac-Cow Game</a>
+- <a href="https://github.com/alvarezsound/JavaScript-Projects/tree/main/Calculator" target="_blank">Calculator</a>
+- <a href="https://github.com/alvarezsound/JavaScript-Projects/tree/main/todo_app" target="_blank">To Do App</a>
+- <a href="https://github.com/alvarezsound/JavaScript-Projects/tree/main/React_Projects" target="_blank">React Projects</a>
+- <a href="https://github.com/alvarezsound/JavaScript-Projects/tree/main/Basic_JavaScript_Projects" target="_blank">Basic JavaScript Projects</a>
 # Pizza Menu
 This project is a menu used to order pizza with various selections of toppings. It then takes the input information and calculates a price fo the order.
 # Pig-Tac-Cow Game
