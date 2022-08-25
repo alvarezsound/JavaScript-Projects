@@ -25,3 +25,5 @@ Functional to do list site with add/remove functionality. Created using HTML, CS
 Folder containing various projects used to build familiarity with React/Javascript.
 # Basic JavaScript Projects
 Folder containing multiple exercises used to build familiarity with Javascript.
+
+Back to [top](#JavaScript-Projects)
